@@ -1,29 +1,28 @@
-# Weather App
+#  Simple ToDo List App
 
-A minimal weather forecast app built with **Vanilla JavaScript**, **SCSS**, and the [OpenWeather API](https://openweathermap.org/). Get current weather data by geolocation or city search with smooth UX and delayed input handling.
+A lightweight and stylish **ToDo List** built with **Vanilla JavaScript**, **SCSS**, and **localStorage**.
 
-## 🚀 Features
+##  Features
 
-- 📍 Auto-detect location via geolocation API
-- 🔍 Search input for city weather
-- 🌡️ Displays temperature, feels-like, humidity, wind speed, and weather icon
-- 🎨 Styled with SCSS using BEM methodology
-- 🧼 Clean UI, mobile-friendly
+- ➕ Add new tasks
+- ✅ Mark tasks as complete (toggle)
+- ❌ Remove tasks with one click
+- 💾 Persistent storage with `localStorage`
+- 🎨 Clean and minimal UI with SCSS (BEM)
 
 ## 🛠️ Tech Stack
 
-- HTML + Vanilla JavaScript (ES6+)
-- SCSS with BEM
-- [OpenWeatherMap API](https://openweathermap.org/)
-- Vite (for dev server and bundling)
+- HTML5 + Vanilla JavaScript
+- SCSS (BEM-style)
+- `localStorage` for data persistence
+- Vite (for development server and bundling)
 
-## 📦 Setup & Run Locally
+## 📦 Getting Started
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/tytamanik/js_weather-app
-   cd js_weather-app
-2. **Install dependencies**:
-   npm install
+### 1. Clone the Repository
 
-![{Preview}](https://github.com/user-attachments/assets/ee007db0-5bfe-441a-8325-862c1818d262)
+```bash
+git clone https://github.com/tytamanik/js_todolist-app
+cd js_todolist-app
+
+![{Preview}](https://github.com/user-attachments/assets/230db053-4554-4f8c-8ae4-81634b7c0eaa)
