@@ -25,6 +25,8 @@ A lightweight and stylish **ToDo List** built with **Vanilla JavaScript**, **SCS
 git clone https://github.com/tytamanik/js_todolist-app
 cd js_todolist-app
 
-![{FAC3D027-33D6-4334-8514-0CE15FC53201}](https://github.com/user-attachments/assets/7c844b98-13af-442a-8bdd-7565b9086fc3)
+
+![{9FF59867-694C-4BBD-A5EF-D03B963ABA45}](https://github.com/user-attachments/assets/971eb34f-d650-4444-9727-5a5b5ab184a5)
+
 
 
